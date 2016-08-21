@@ -1,2 +1,2 @@
 # test
-My frirst test with Git
+My First test with Git
